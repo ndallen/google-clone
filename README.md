@@ -1,0 +1,1 @@
+This project is a clone of google.com's search page to get familiar with HTML and CSS
